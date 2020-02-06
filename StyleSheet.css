@@ -1,0 +1,16 @@
+﻿body {
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+    font-size: 17px;
+}
+.footer {
+    background-color: black;
+    padding: 10px;
+    margin-top:10%;
+}
+
+.footerp {
+    color: white;
+    font-size: 15px;
+}
